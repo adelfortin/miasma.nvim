@@ -339,7 +339,7 @@ hi lualine_transitional_lualine_c_branch_to_lualine_c_normal guifg=#3B5998 guibg
 hi lualine_transitional_lualine_c_branch_to_StatusLine guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_x_8_to_lualine_x_9 guifg=#685742 guibg=#78824b guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_x_fileformat_0_to_StatusLineNC guifg=#1c1c1c guibg=#222222 guisp=NONE blend=NONE gui=NONE
-hi lualine_transitional_lualine_x_fileformat_to_StatusLine guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
+hi lualine_transitional_lualine_x_fileformat_to_StatusLine guifg=#3B5998 guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_x_location_0_to_lualine_c_inactive guifg=#1c1c1c guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_x_location_to_lualine_c_normal guifg=#685742 guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_8 guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
