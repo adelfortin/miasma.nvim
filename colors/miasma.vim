@@ -308,7 +308,7 @@ hi lualine_c_filename_visual guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE g
 hi lualine_c_filetype_0_1_2_command guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_0_1_2_inactive guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_0_1_2_insert guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
-hi lualine_c_filetype_0_1_2_normal guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
+hi lualine_c_filetype_0_1_2_normal guifg=#3B5998 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_0_1_2_replace guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_0_1_2_terminal guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_0_1_2_visual guifg=#d7c483 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
