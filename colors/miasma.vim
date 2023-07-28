@@ -346,7 +346,7 @@ hi lualine_x_8 guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_9 guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_diagnostics guifg=#1c1c1c guibg=#bb7744 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_fileformat_0 guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
-hi lualine_x_fileformat guifg=#1c1c1c guibg=#78824b guisp=NONE blend=NONE gui=NONE
+hi lualine_x_fileformat guifg=#1c1c1c guibg=#3B5998 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_location_0 guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_x_location guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
 hi lualine_x_progress guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
