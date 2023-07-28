@@ -290,7 +290,7 @@ hi LspReferenceRead guifg=#5f875f guibg=NONE guisp=#fd9720 blend=NONE gui=bold,u
 hi LspReferenceText guifg=#d7c483 guibg=#43492a guisp=#fd9720 blend=NONE gui=bold,undercurl
 hi LspReferenceWrite guifg=#5f875f guibg=NONE guisp=#fd9720 blend=NONE gui=bold,undercurl
 hi LspSignatureActiveParameter guifg=NONE guibg=NONE guisp=#fbec9f blend=NONE gui=bold,italic,underline
-hi lualine_c_branch guifg=#1c1c1c guibg=#78824b guisp=NONE blend=NONE gui=NONE
+hi lualine_c_branch guifg=#1c1c1c guibg=##3B5998 guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_command guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_inactive guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_insert guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
