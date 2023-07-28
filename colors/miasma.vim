@@ -294,7 +294,7 @@ hi lualine_c_branch guifg=#1c1c1c guibg=#78824b guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_command guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_inactive guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_insert guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
-hi lualine_c_filename_0_normal guifg=#666666 guibg=#3B5998 guisp=NONE blend=NONE gui=NONE
+hi lualine_c_filename_0_normal guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_replace guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_terminal guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filename_0_visual guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
@@ -334,7 +334,7 @@ hi lualine_c_filetype_replace guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE 
 hi lualine_c_filetype_terminal guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
 hi lualine_c_filetype_visual guifg=#d7c483 guibg=#685742 guisp=NONE blend=NONE gui=NONE
 hi lualine_c_inactive guifg=NONE guibg=#222222 guisp=NONE blend=NONE gui=NONE
-hi lualine_c_normal guifg=NONE guibg=#222222 guisp=NONE blend=NONE gui=NONE
+hi lualine_c_normal guifg=NONE guibg=##3B5998 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_c_branch_to_lualine_c_normal guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_c_branch_to_StatusLine guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi lualine_transitional_lualine_x_8_to_lualine_x_9 guifg=#685742 guibg=#78824b guisp=NONE blend=NONE gui=NONE
