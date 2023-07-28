@@ -480,7 +480,7 @@ hi User3 guifg=#d7c483 guibg=#b36d43 guisp=NONE blend=NONE gui=NONE
 hi User4 guifg=#d7c483 guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi User5 guifg=#d7c483 guibg=#bb7744 guisp=NONE blend=NONE gui=NONE
 hi User6 guifg=#d7c483 guibg=#c9a554 guisp=NONE blend=NONE gui=NONE
-hi User7 guifg=#d7c483 guibg=#78824b guisp=NONE blend=NONE gui=NONE
+hi User7 guifg=#d7c483 guibg=#3B5998 guisp=NONE blend=NONE gui=NONE
 hi User8 guifg=#d7c483 guibg=#b36d43 guisp=NONE blend=NONE gui=NONE
 hi User9 guifg=#d7c483 guibg=#666666 guisp=NONE blend=NONE gui=NONE
 hi VertSplit guifg=#1c1c1c guibg=#222222 guisp=NONE blend=NONE gui=NONE
